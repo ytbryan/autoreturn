@@ -27,3 +27,10 @@ autoreturn is created to remove these return values
 ![CleanShot 2024-12-27 at 15 52 10@2x](https://github.com/user-attachments/assets/2ffc59af-c9c3-48bb-b503-3aaa8c17067b)
 
 
+
+## todo
+- [ ] remove the need to have the decorator @autoreturn
+- [ ] add a shorter decorator if the decorator is @a
+- [ ] test whether it works well with juice
+
+
